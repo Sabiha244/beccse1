@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "computer science and engineering" %></h2>
+<h2><%= "hello world" %></h2>
 </body>
 </html>
